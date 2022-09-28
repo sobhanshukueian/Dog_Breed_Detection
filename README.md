@@ -1,5 +1,5 @@
 # Dog_Breed_Detection
-This project implements Dog Breed Detection using Transfer Learning in Python and Tensorflow
+Dog Breed Detection Implementation using Transfer Learning in Python and Tensorflow
 
 # Introduction 
 Transfer or inductive learning is a supervised learning technique that reuses parts of a previously trained model on a new network tasked for a different but similar problem. 
